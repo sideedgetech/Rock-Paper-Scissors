@@ -49,6 +49,7 @@ SOFTWARE.
 
 ## 🎖️ Special Thanks To
 
+❮img src="https://quiin.s3.us-east-1.amazonaws.com/vendors/logos/000/370/678/original/Vercel-logo-sq.png?1613739333" ❯
 
 ##
 
