@@ -1,33 +1,65 @@
-# 🪨📃✂️ Rock Paper Scissor Game!
 
-A Rock Paper Scissor Game Online And Free With Computer :)
+# 🫲🏻 Rock Paper Scissors Game
 
-
+It is a free Source game made by Side Edge.
 ## 🚀 About 
-This is Created with Html,CSS and Java
+This is Created By using CSS and JavaScript.
 
 
-## 🏆Win
-Everything is random here there are 50% chances to win or to lose.
+## 🤖 Working Process
+Works Online , no need to enable JavaScript.
 
 
+## 🏆 Win
+
+There are 50 chances to win and lose everything is Random.
 ## 🔗Link 
-Here is the site's link though its up but click [Here](https://rockscissorgame.netlify.app/)
+It is given above, but click [Here](https://rockscissor.vercel.app/)
 
 ## 🧑🏻‍💻 Authors
 
-- [@17992](https://github.com/17992)
+- [Side Edge](https://github.com/sideedgetech)
 
 
 ## 🪪 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT-
+
+MIT License
+
+Copyright (c) 2022 Side Tech
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## 🎖️ Special Thanks To
 
 
 ##
 
-Thanks for playing do [follow](https://github.com/17992)
+
+# 🌟Thanks
+
+
+Thanks for using do [follow](https://github.com/sideedgetech)
  if you like!
 
 
- -Aksh Gupta
+ Made with ❤️ by Side Edge
+
+ -[Side Edge](https://github.com/sideedgetech)
