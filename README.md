@@ -49,7 +49,7 @@ SOFTWARE.
 
 ## 🎖️ Special Thanks To
 
- <img alt="Vercel" src="./Images/vercel.png" />
+ <img alt="Vercel" src="./Images/Vercel.png" />
 
 # 🌟Thanks
 
